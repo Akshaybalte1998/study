@@ -1,0 +1,11 @@
+Sudo apt update
+2.	  Sudo apt install nodejs
+3.	  Sudo apt install npm
+4.	 Node -v 
+5.	Git -v
+6.	Mkdir name
+7.	Cd name 
+8.	Git clone url
+9.	Cd filename
+10.	Npm install
+11.	node filename.js
